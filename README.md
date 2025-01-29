@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
+## String
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
