@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 ## String
@@ -31,5 +33,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
