@@ -20,10 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
