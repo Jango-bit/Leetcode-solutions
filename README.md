@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Jango-bit/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Jango-bit/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## String
 |  |
 | ------- |
@@ -35,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Jango-bit/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 <!---LeetCode Topics End-->
