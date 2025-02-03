@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0742-to-lower-case](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
