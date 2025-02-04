@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jango-bit/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jango-bit/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Enumeration
 |  |
 | ------- |
