@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [1635-number-of-good-pairs](https://github.com/Jango-bit/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jango-bit/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Jango-bit/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/Jango-bit/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Jango-bit/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/Jango-bit/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -58,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Jango-bit/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
