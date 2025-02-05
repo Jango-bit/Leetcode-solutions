@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Jango-bit/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2058-concatenation-of-array](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
