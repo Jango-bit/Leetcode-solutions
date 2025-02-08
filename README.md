@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Jango-bit/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [1635-number-of-good-pairs](https://github.com/Jango-bit/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+| [2491-smallest-even-multiple](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jango-bit/Leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Jango-bit/Leetcode-solutions/tree/master/1635-number-of-good-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Jango-bit/Leetcode-solutions/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
